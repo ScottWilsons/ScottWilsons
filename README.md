@@ -1,4 +1,4 @@
-![banner (3)](https://user-images.githubusercontent.com/93223810/161557371-e1b75c59-6693-43bb-8280-cc7eae2c55c0.png)
+![banner (4)](https://user-images.githubusercontent.com/93223810/161564045-02eabf82-eba8-4785-9f95-0848e10d75ac.png)
 
 - 😁 About me ... I studied Computer games design at university and then went on to become a stock manager. 
 I wanted to get into coding as I want to be at the forefront of creating the future and I beleive that code is the 
